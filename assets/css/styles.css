@@ -379,6 +379,11 @@ img {
   background-color: transparent;
   color: var(--first-color-alt);
 }
+.b-text {
+  text-decoration: none;
+  font-family: var(--body-font);
+  font-size: var(--font-semi-bold);
+}
 /*==================== ABOUT ====================*/
 .about__img {
   width: 200px;
